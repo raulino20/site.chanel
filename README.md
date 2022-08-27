@@ -1,1 +1,1 @@
-# site.chanel
+# site.channel
